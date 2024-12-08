@@ -32,7 +32,7 @@ The repository is organized as follows:
      Clustering techniques, including **K-Means**, to group movies.  
   3. **Algorithmic Question**:  
      A **game theory problem**, where two players compete to maximize their scores. The solution is implemented using dynamic programming to predict outcomes under optimal play.  
-
+- **`kmeans_algorithm.py`**: This file contains the implementation of the K-means algorithm. This file is imported into the main script.
 ---
 
 ## **Authors**  
