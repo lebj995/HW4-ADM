@@ -31,7 +31,7 @@ The repository is organized as follows:
   2. **Clustering (Sections 2 and 3)**:  
      Clustering techniques, including **K-Means**, to group movies.  
   3. **Algorithmic Question**:  
-     A strategic **game theory problem**, where two players compete to maximize their scores. The solution is implemented using dynamic programming to predict outcomes under optimal play.  
+     A **game theory problem**, where two players compete to maximize their scores. The solution is implemented using dynamic programming to predict outcomes under optimal play.  
 
 ---
 
