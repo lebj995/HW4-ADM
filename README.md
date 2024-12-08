@@ -1,28 +1,45 @@
-#  *Homework 4 - GROUP - #5*
+# **Homework 4 - Group -5**
 
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/887eb4cc-e54f-4ca3-9405-894944fb69b1" alt="Homework 4 Banner" height="auto" />
+</div>
 
-### *REPOSITORY CONTENT*
+---
 
-*This repository consists a Jupyter notebook titled 'main.ipynb', The notebook is divided into two main sections:*
+## **Introduction**  
+This project focuses on three main challenges:  
+1. Developing a **movie recommendation system** using techniques like **Locality-Sensitive Hashing (LSH)**.
+2. Group Similar Movies into **Clusters**
+3. Solving a **game theory algorithmic problem** through dynamic programming.  
 
-*1. __MOVIE RECOMMENDATION SYSTEM__ This project uses the MovieLens dataset to build a recommendation system by applying hashing for faster data retrieval and clustering to group users with similar movie preferences. The system analyzes user behavior and ratings to provide personalized movie suggestions efficiently. Key techniques include data preprocessing, K-Means clustering, and custom hash functions. Results showcase improved speed and accuracy in recommendations.*
+---
 
-*2. __ALGORITHM QUESTION__ Based on Arya and Mario who play a game by taking numbers from either end of a sequence to maximize their scores. Arya goes first. With both playing optimally, can Arya guarantee a win or tie?*
+## **Table of Contents**  
+- [Repository Content](#repository-content)  
+- [Authors](#authors)  
+---
 
+## **Repository Content**  
 
-## *__MOVIE RECOMMENDATION SYSTEM__*
+The repository is organized as follows:  
 
+- **`README.md`**: This document provides an overview of the repository, summarizing its contents and purpose.  
 
-  ![resized_image](https://github.com/user-attachments/assets/887eb4cc-e54f-4ca3-9405-894944fb69b1)
+- **`main.ipynb`**: This Jupyter Notebook contains the core of the project and is divided into the following sections:  
+  1. **Recommendation System with LSH**:  
+     A recommendation system utilizing **Locality-Sensitive Hashing (LSH)** 
+  2. **Clustering (Sections 2 and 3)**:  
+     Clustering techniques, including **K-Means**, to group movies.  
+  3. **Algorithmic Question**:  
+     A strategic **game theory problem**, where two players compete to maximize their scores. The solution is implemented using dynamic programming to predict outcomes under optimal play.  
 
-*This project uses the [MovieLens dataset](https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset?) to build a recommendation system by applying hashing for faster data retrieval and clustering to group users with similar movie preferences. The system analyzes user behavior and ratings to provide personalized movie suggestions efficiently. Key techniques include data preprocessing, K-Means clustering, and custom hash functions. Results showcase improved speed and accuracy in recommendations.*
+---
 
-## *ALGORITHM QUESTION*
+## **Authors**  
 
-*Arya and Mario play a strategic game with a sequence of numbers, aiming to maximize their scores by taking numbers from either end of the sequence. Arya always starts, and both players play optimally. If scores tie, Arya wins by default. This project predicts whether Arya can guarantee a win under optimal conditions.*
-
-
-
+- **Beatrice Mazzocchi**: [GitHub Profile](https://github.com/beatricemazz)  
+- **Evan Theodar Palakonda**: [GitHub Profile](https://github.com/evantheodar)  
+- **Emanuele Gallo**: [GitHub Profile](https://github.com/lebj995)  
 
 
 
