@@ -38,8 +38,9 @@ The repository is organized as follows:
 ## **Authors**  
 
 - **Beatrice Mazzocchi**: [GitHub Profile](https://github.com/beatricemazz)  
+- **Emanuele Gallo**: [GitHub Profile](https://github.com/lebj995)
 - **Evan Theodar Palakonda**: [GitHub Profile](https://github.com/evantheodar)  
-- **Emanuele Gallo**: [GitHub Profile](https://github.com/lebj995)  
+
 
 
 
